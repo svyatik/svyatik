@@ -13,8 +13,5 @@
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svyatik&layout=compact&exclude_repo=Gictorbit.github.io&theme=gotham&border_color=2e3440&card_width=250)
-
 ### 📫 &nbsp;Connect with Me
 [![gmail](https://img.shields.io/badge/-svyat.kovtun@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:svyat.kovtun@gmail.com)
