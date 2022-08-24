@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Svyat
-### 👨🏻‍ &nbsp;About Me
+### 🐱‍👤 &nbsp;About Me
 - 💻 I'm currently working as frontend developer
 - 💻 I'm currently learning three.js
 
